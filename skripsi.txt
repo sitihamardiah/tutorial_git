@@ -2,4 +2,5 @@
 
 ## test dari branch develop
 
-## conflict dari file2
+## test git conflict file1 dan file2
+
